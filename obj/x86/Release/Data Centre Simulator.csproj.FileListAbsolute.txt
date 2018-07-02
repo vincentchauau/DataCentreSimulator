@@ -1,0 +1,14 @@
+F:\Project\Data Centre Simulator\Data Centre Simulator\bin\Release\DataCentreSimulator.exe
+F:\Project\Data Centre Simulator\Data Centre Simulator\bin\Release\DataCentreSimulator.pdb
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.fMain.resources
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.Properties.Resources.resources
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Release\Data Centre Simulator.csproj.GenerateResource.Cache
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.exe
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.pdb
+F:\Project\C#\Data Centre Simulator\bin\Release\DataCentreSimulator.exe
+F:\Project\C#\Data Centre Simulator\bin\Release\DataCentreSimulator.pdb
+F:\Project\C#\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.fMain.resources
+F:\Project\C#\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.Properties.Resources.resources
+F:\Project\C#\Data Centre Simulator\obj\x86\Release\Data Centre Simulator.csproj.GenerateResource.Cache
+F:\Project\C#\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.exe
+F:\Project\C#\Data Centre Simulator\obj\x86\Release\DataCentreSimulator.pdb

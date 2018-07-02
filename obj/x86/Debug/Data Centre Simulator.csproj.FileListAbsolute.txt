@@ -1,0 +1,58 @@
+F:\Project\Data Centre Simulator\Data Centre Simulator\bin\Debug\DataCentreSimulator.exe
+F:\Project\Data Centre Simulator\Data Centre Simulator\bin\Debug\DataCentreSimulator.pdb
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.fMain.resources
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.exe
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.pdb
+F:\Project\Data Centre Simulator\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.exe
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.pdb
+F:\Project\C#\Data Centre Simulator\bin\Debug\DataCentreSimulator.exe
+F:\Project\C#\Data Centre Simulator\bin\Debug\DataCentreSimulator.pdb
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.fMain.resources
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+F:\Project\C#\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+E:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.exe
+E:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.pdb
+D:\Google Drive\Data Centre Simulator\bin\Debug\DataCentreSimulator.exe
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.fMain.resources
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.exe
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.pdb
+D:\Google Drive\Data Centre Simulator\bin\Debug\DataCentreSimulator.pdb
+D:\Google Drive\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.exe
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.pdb
+D:\Google Drive\Project\C#\Data Centre Simulator\bin\Debug\DataCentreSimulator.exe
+D:\Google Drive\Project\C#\Data Centre Simulator\bin\Debug\DataCentreSimulator.pdb
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.fMain.resources
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+D:\Google Drive\Project\C#\Data Centre Simulator\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.fMain.resources
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+\\qut.edu.au\Documents\StaffHome\StaffGroupT$\tangm\Desktop\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.exe
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.pdb
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.exe
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.pdb
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.fMain.resources
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+E:\Data Centre Simulator 20170502\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.exe
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.pdb
+E:\Data Centre Simulator\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.exe
+E:\Data Centre Simulator\Data Centre Simulator 20170502\bin\Debug\DataCentreSimulator.pdb
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csprojResolveAssemblyReference.cache
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.fMain.resources
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\DataCentreSimulator.Properties.Resources.resources
+E:\Data Centre Simulator\Data Centre Simulator 20170502\obj\x86\Debug\Data Centre Simulator.csproj.GenerateResource.Cache
